@@ -1,0 +1,5 @@
+{
+    "GITLAB_ENDPOINT": "http://localhost/", 
+    "SERVER_URL": "https://bsilfqw66f.execute-api.ap-southeast-1.amazonaws.com/dev",
+    "file_path": "./report/gitlab_report.csv"
+}
