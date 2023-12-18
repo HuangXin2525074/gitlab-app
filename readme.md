@@ -1,4 +1,3 @@
-# Take Home Assignment
 
 ## Interactive Script - GitlabHealthCheck
 A Gitlab health check program 
